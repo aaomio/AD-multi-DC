@@ -41,7 +41,7 @@ Both domain controllers participate in the same Active Directory forest and main
 
 - [DC-01 Setup](DC-01-setup.md)
 - [DC-02 Setup](DC-02-setup.md)
-- [Active Directory Replication Test](ou-replication-test.md)
+- [Active Directory Replication Test](AD-replication-validate.md)
 
 ---
 
